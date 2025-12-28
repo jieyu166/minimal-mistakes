@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-TW"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "楊傑宇 Jieyu Yang"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "放射科醫師｜醫療影像與自動化開發"
+name                     : "楊傑宇 Jieyu Yang"
+description              : "專注影像診斷、工作流程自動化與 AI 輔助的臨床實踐與研究。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "楊傑宇 Jieyu Yang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "台灣執業放射科醫師，專注多模態影像判讀、流程自動化與臨床研究。"
+  location         : "台灣"
   email            :
   links:
     - label: "Email"
@@ -125,12 +125,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "PubMed"
+      icon: "fas fa-fw fa-book-medical"
+      url: "https://pubmed.ncbi.nlm.nih.gov/37707413/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
